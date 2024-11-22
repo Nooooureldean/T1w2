@@ -1,0 +1,211 @@
+.div button
+{
+    width: 176px;
+height: 60px;
+left: 1341px;
+gap: 0px;
+border-radius: 4px 0px 0px 0px;
+opacity: 0px;
+
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2
+{
+    font-family: Inter;
+font-size: 133px;
+font-weight: 500;
+line-height: 160.96px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #1F1F1F;
+
+
+}
+p
+{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 42.12px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.col-md-8 button
+{
+    width: 302px;
+    height: 86px;
+    top: 473px;
+    left: 8px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+.rec
+{
+   
+    width: 206px;
+height: 187px;
+top: 429px;
+left: 751px;
+gap: 0px;
+border-radius: 4px 0px 0px 0px;
+border: 2px 0px 0px 0px;
+opacity: 0px;
+border: 2px solid #1F1F1F;
+
+}
+.k
+{
+    position: relative;
+}
+.k img
+{
+    width: 400px;
+   
+    position: relative;
+    top: 30px;
+    left: 30px;
+  
+}
+.lo
+{
+    position: relative;
+    width: 100px;
+height: 100px;
+bottom: 70px;
+left: 400px;
+gap: 0px;
+border-radius: 2px 0px 0px 0px;
+opacity: 0px;
+background: #1F1F1F;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.icon
+{
+
+    color: white;
+
+ 
+
+}
+.bn
+{
+    font-family: Inter;
+font-size: 58px;
+font-weight: 600;
+line-height: 70.19px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.par
+{
+    font-family: Inter;
+font-size: 22px;
+font-weight: 500;
+line-height: 36.34px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.ss
+{
+    font-family: Inter;
+font-size: 30px;
+font-weight: 600;
+line-height: 36.31px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.aaa
+{
+    font-family: Inter;
+font-size: 58px;
+font-weight: 600;
+line-height: 70.19px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.l
+{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 600;
+line-height: 29.05px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.log
+{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.ll
+{
+    color: white;
+}
+.lg 
+{
+    position: relative;
+    width: 500px;
+height: 500px;
+top: 218px;
+left: 160px;
+gap: 0px;
+border-radius: 4px 0px 0px 0px;
+opacity: 0px;
+background-color: black;
+
+}
+.ml 
+{
+    text-align: left;
+}
+.ln
+{
+    width: 50px;
+    height: 50px;
+  background-color:  #F1F1F1;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.social
+{
+    width: 579px;
+height: 104px;
+top: 386px;
+gap: 0px;
+opacity: 0px;
+
+}
+.case
+{
+    width: 50px;
+    height: 50px;
+    background-color: #1F1F1F;
+
+}
